@@ -8,4 +8,4 @@
  probability: [12, 50, 88]
  reward_lowerbound: 1.24
  reward_higherbound: 4.3
-
+ font_size: 25
